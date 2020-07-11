@@ -1,0 +1,37 @@
+.first {
+    width: 560px;
+    height: auto;
+    border: 1.5px solid blue;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.blue {
+    height: 40px;
+    width: 40px;
+    background: blue;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+.second {
+    margin-top: 8px;
+    width: 560px;
+    height: auto;
+    border: 1.5px solid blue;
+    background: coral;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.purple {
+    height: 40px;
+    width: 40px;
+    background: purple;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
